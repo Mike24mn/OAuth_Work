@@ -19,3 +19,8 @@ OAuth (Open Authorization) is an open standard for token-based authentication an
 // I read more about the Schwab API token renewal/refresh times (7 days is the current refresh time span, so refresh will be pretty frequent)
 
 // Finalized my scope document as well
+
+![image](https://github.com/Mike24mn/OAuth_Work/assets/81834728/13012a0e-9b85-4188-a914-25382e67f198)
+
+
+![image](https://github.com/Mike24mn/OAuth_Work/assets/81834728/8f05cf3a-18de-4bf2-8a86-5f73593f6289)
