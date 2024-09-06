@@ -24,3 +24,5 @@ OAuth (Open Authorization) is an open standard for token-based authentication an
 
 
 ![image](https://github.com/Mike24mn/OAuth_Work/assets/81834728/8f05cf3a-18de-4bf2-8a86-5f73593f6289)
+
+![0187ab4a-oauth-tools-1024x683](https://github.com/user-attachments/assets/c59153ab-43e9-4768-a6fb-b68ae7843d8b)
